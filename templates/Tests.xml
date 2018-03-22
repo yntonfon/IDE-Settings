@@ -1,0 +1,7 @@
+<templateSet group="Tests">
+  <template name="given" value="# Given&#10;&#10;&#10;# When&#10;&#10;&#10;# Then" description="Tests Structure" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
